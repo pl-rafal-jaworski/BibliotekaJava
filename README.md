@@ -1,2 +1,2 @@
 # BibliotekaJava
-Program zaliczeniowy z przedmiotu Projektowanie w jezyku Java
+Program zaliczeniowy z przedmiotu Programowanie w jezyku Java
